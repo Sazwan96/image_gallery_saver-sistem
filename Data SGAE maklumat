@@ -1,0 +1,16 @@
+Gabungkan data semua jadi html,  </div>
+    </div>
+
+    <!-- PORTFOLIO KANAN – MyIPO + Sijil + Negara + AI -->
+    <div class="portfolio-right">
+        <h1>🌐 Muhamad Sazwan Bin Ismail</h1>
+        <p><strong style="color:#00e5ff;">Ketua Teknikal untuk Kedaulatan AI</strong> · End AI Global · Sazwan Digital</p>
+        <p>✅ AI Berdaulat · Cybersecurity · Blockchain · 205 Negara · 250 Sijil Lengkap & Pertauliahan</p>
+
+        <div class="owner-master-seal">
+            <svg viewBox="0 0 160 160" width="80"><circle cx="80" cy="80" r="70" fill="none" stroke="#ffd966" stroke-width="2"/><text x="80" y="72" text-anchor="middle" fill="#ffd966" font-size="14" font-weight="800">MUHAMAD</text><text x="80" y="92" text-anchor="middle" fill="#ffd966" font-size="14" font-weight="800">SAZWAN</text><text x="80" y="112" text-anchor="middle" fill="#00e5ff" font-size="10">BIN ISMAIL</text></svg>
+            <div><h4>MUHAMAD SAZWAN BIN ISMAIL</h4><p>Fingerprint SHA-256: 32D8A53CC4C299E60424C0D0E96D3B06575D51</p></div>
+        </div>
+
+
+Gabungkan dengan semua maklumat data yang ada
